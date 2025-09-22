@@ -1,7 +1,19 @@
 # Ex.No.4-EXP 4 Generate the Prompt and eveluate that for following prompt types - Comparative Analysis Prompt Experiential Perspective Prompt - Everyday Functioning Prompts - Universal Prompt Structures Prompt Refinements- Prompt Size Limitations.
 ### DATE: 22-09-2025                                                                           
 ### REGISTER NUMBER : 212223060293
-### Aim: To write the prompt for the following prompt types and ompare that with differenet AI tools and evaluate that using any one evaluation method (eg. Rubrics). 1.Comparative Analysis Prompt 2. Experiential Perspective Prompt 3. Everyday Functioning Prompts 4. Universal Prompt Structures Prompt Refinements 5. Prompt Size Limitations design an AI 
+## Aim: 
+
+To write the prompt for the following prompt types and ompare that with differenet AI tools and evaluate that using any one evaluation method (eg. Rubrics). 
+
+  - Comparative Analysis Prompt
+   
+  - Experiential Perspective Prompt
+
+  - Everyday Functioning Prompts
+
+  - Universal Prompt Structures Prompt Refinements 
+    
+  - Prompt Size Limitations design an AI 
 
 ## Scenario & Use Case
 
@@ -141,8 +153,7 @@ Initial Large Prompt: "Provide a comprehensive, detailed technical plan for an I
 
 ## Evaluation Table
 
-<img width="1115" height="524" alt="image" src="https://github.com/user-attachments/assets/40bd6362-7faf-41c3-8f7e-52f0d0a2a2e9" />
-
+<img width="1072" height="463" alt="image" src="https://github.com/user-attachments/assets/bd42a021-63b1-477c-88a3-31be8bf3ba86" />
 
 ## Result: 
-The various types of Prompts are executed successfully with generated the report.
+Thus the various types of Prompts are executed successfully.
